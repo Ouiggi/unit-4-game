@@ -1,0 +1,67 @@
+body {
+	background-image: url(../images/streetFighter.jpg)
+}
+
+.target {
+	background-color: blue;
+	text-align: center;
+}
+
+.totePoints {
+	background-color: blue;
+	text-align: center
+}
+ h1 {
+	font-size: 100px;
+ }
+
+.jumbotron {
+	background-color: transparent;
+	color: #afff53;
+	text-align: center;
+	height: 200px;
+}
+
+.compPoints {
+	background-color: blue;
+	color: white;
+	text-align: center;
+}
+.target-number {
+	font-size: 30px;
+	background-color: blue;
+	color: white;
+}
+
+.win-lose-counter {
+	background-color: rgb(253, 6, 6);
+	border-style: solid;
+	border-color: #ddd;
+	border-width: 4px;
+}
+
+#toyPics {
+	align-content: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.total-score {
+	background-color: red;
+	color: white;;
+}
+
+.score-number {
+	color: white;
+	background-color: #ff0000;
+	font-size: 30px;
+}
+
+.toy-0, .toy-1, .toy-2, .toy-3 {
+	position: relative;
+	border: 10px ridge #8a1cd3;
+	margin: 2px auto;
+	width: 200px;
+	height: 200px;
+	border-radius: 5px;
+}

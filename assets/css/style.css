@@ -27,6 +27,12 @@ body {
 	color: white;
 	text-align: center;
 }
+
+.target {
+
+	border-radius: 10px;
+}
+
 .target-number {
 	font-size: 30px;
 	background-color: blue;
@@ -34,8 +40,8 @@ body {
 }
 
 .win-lose-counter {
-	background-color: rgb(253, 6, 6);
-	border-style: solid;
+	background-color: rgb(208, 253, 6);
+	border-style: groove;
 	border-color: #ddd;
 	border-width: 4px;
 }
@@ -48,7 +54,8 @@ body {
 
 .total-score {
 	background-color: red;
-	color: white;;
+	color: white;
+	border-radius: 10px;
 }
 
 .score-number {
